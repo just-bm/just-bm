@@ -12,7 +12,7 @@
   <li>🔭 I’m currently working on <strong>Web Development</strong></li>
   <li>🌱 I’m currently learning <strong>React.js and frameworks</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Open-source projects and Hackathons</strong></li>
-  <li>📫 How to reach me: <a href="mailto:tbalancemurugan@gmail.com">dineshkarthick282005@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:tbalancemurugan@gmail.com">tbalancemurugan@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>I love playing cricket 🏏</strong></li>
 </ul>
 
@@ -43,7 +43,7 @@
 </p>
 
 <!-- Connect With Me Section -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/dinesh-karthick-v-6b073a28b/](https://www.linkedin.com/in/just0bm0or0balamurugan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
