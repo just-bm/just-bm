@@ -67,6 +67,6 @@
 
 <!-- Footer Section -->
 <p align="center">
-  💻 Developed by <b>Dinesh Karthick V</b> | 💖 Passionate about Technology & Innovation
+  💻 Developed by <b>Balamurugan T</b> | 💖 Passionate about Technology & Innovation
 </p>
 
