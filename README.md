@@ -59,6 +59,10 @@
   </a>
   
 </p>
+<!-- LeetCode Stats Section -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/just_bm__?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="450" />
+</p>
 
 <!-- Profile Views Counter -->
 <p align="center">
