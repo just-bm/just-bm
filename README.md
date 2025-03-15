@@ -28,7 +28,7 @@
 
 <!-- GitHub Streak Section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-bm&theme=radical" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-bm&layout=compact&theme=radical" alt="GitHub Streak" width="450" />
 </p>
 
 <!-- Skills Section -->
