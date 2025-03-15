@@ -18,7 +18,7 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just-bm&show_icons=true&theme=radical" alt="Balamurugan's GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/username=just-bm?&show_icons=true&theme=radical" alt="Balamurugan's GitHub stats" width="450" />
 </p>
 
 <!-- Top Languages Section -->
