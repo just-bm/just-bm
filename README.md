@@ -25,11 +25,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-bm&layout=compact&theme=radical" alt="Top Languages" width="450" />
 </p>
-
-<!-- GitHub Streak Section -->
+<!-- github streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-bm&layout=compact&theme=radical" alt="GitHub Streak" width="450" />
 </p>
+
 
 <!-- Skills Section -->
 <h3 align="center">Tech Stack & Tools</h3>
