@@ -1,6 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Balamurugan T</h1>
 <h3 align="center">A passionate Full-Stack Developer and aspiring Software Engineer</h3>
+<hr>
 
 <!-- Typing SVG -->
 <p align="center">
