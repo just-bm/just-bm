@@ -1,5 +1,8 @@
 <!-- Header Section with Improved Design -->
 <div align="center">
+   <!-- Add your profile photo here -->
+  <img src="https://github.com/just-bm.png" alt="Balamurugan T" width="200" height="200" style="border-radius:100%;" />
+  
   <h1>✨ Balamurugan T ✨</h1>
   <h3>Full-Stack Developer & Software Engineering Enthusiast</h3>
   
@@ -100,6 +103,7 @@
 </div>
 
 <hr>
+
 
 <!-- Footer Section -->
 <div align="center">
