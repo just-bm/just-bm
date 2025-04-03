@@ -23,7 +23,7 @@
 <h3 align="center">🔧 Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,go,mysql,mongodb,html,css,js,aws,azure,linux,git,matlab,sklearn,tensorflow,postman,vscode&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,react,mysql,mongodb,html,css,js,linux,git,vscode&theme=dark&perline=14" />
   </a>
 </p>
 
