@@ -17,8 +17,8 @@
 </ul>
 <!-- skill section -->
 <p align="center">
-    <img src="https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=light" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/Balaji-R-05?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/followers/just-bm?label=Follow&style=light" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/just-bm?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
 </p>
 
 <!-- GitHub Stats Section -->
