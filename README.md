@@ -1,5 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Balamurugan T</h1>
+<hr>
 <h3 align="center">A passionate Full-Stack Developer and aspiring Software Engineer</h3>
 <hr>
 
@@ -7,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
 </p>
+<hr>
 
 <!-- About Me Section -->
 <ul>
@@ -16,6 +18,7 @@
   <li>📫 How to reach me: <a href="mailto:tbalancemurugan@gmail.com">tbalancemurugan@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>I love playing cricket 🏏</strong></li>
 </ul>
+<hr>
 <!-- skill section -->
 <p align="center">
     <img src="https://img.shields.io/github/followers/just-bm?label=Follow&style=light" alt="GitHub followers" />
@@ -27,20 +30,23 @@
     <img src="https://skillicons.dev/icons?i=python,java,c,react,mysql,mongodb,html,css,js,linux,git,vscode&theme=dark&perline=14" />
   </a>
 </p>
+<hr>
 
 <!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=just-bm&show_icons=true&theme=radical" alt="Balamurugan's GitHub stats" width="450" />
 </p>
-
+<hr>
 <!-- Top Languages Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-bm&layout=compact&theme=radical" alt="Top Languages" width="450" />
 </p>
+<hr>
 <!-- github streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-bm&layout=compact&theme=radical" alt="GitHub Streak" width="450" />
 </p>
+<hr>
 
 
 <!-- Skills Section -->
@@ -53,6 +59,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
 </p>
+<hr>
 
 <!-- Connect With Me Section -->
 <h3 align="center">Connect me</h3>
@@ -71,10 +78,12 @@
   </a>
   
 </p>
+<hr>
 <!-- LeetCode Stats Section -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/just_bm__?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="450" />
 </p>
+<hr>
 
 <!-- Profile Views Counter -->
 <p align="center">
