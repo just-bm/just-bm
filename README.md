@@ -20,6 +20,12 @@
     <img src="https://img.shields.io/github/followers/just-bm?label=Follow&style=light" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/just-bm?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
 </p>
+<h3 align="center">🔧 Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,go,mysql,mongodb,html,css,js,aws,azure,linux,git,matlab,sklearn,tensorflow,postman,vscode&theme=dark&perline=14" />
+  </a>
+</p>
 
 <!-- GitHub Stats Section -->
 <p align="center">
