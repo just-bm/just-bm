@@ -90,7 +90,7 @@
   
   <p>
     <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api/?username=just-bm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=just-bm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%"/>
     <!-- Top Languages Card -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-bm&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" />
   </p>
