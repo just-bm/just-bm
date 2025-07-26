@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://github.com/Balaji-R-05/Balaji-R-05/raw/main/assets/header.png" alt="Banner Image" width="100%"/>
+</div>
+<h1 align='center'>
+</h1>
+
 <!-- Header Section with Improved Design -->
 <div align="center">
    <!-- Add your profile photo here -->
