@@ -106,7 +106,7 @@
   
   <!-- LeetCode Stats with Custom Theme -->
   <h2>⚡ LeetCode Statistics</h2>
-  <img src="https://leetcard.jacoblin.cool/just_bm__?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="70%" />
+  <img src="https://leetcard.jacoblin.cool/just_bm__?&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="70%" />
 </div>
 
 <hr>
